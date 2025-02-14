@@ -40,7 +40,7 @@
 ---
 
 ## 🚀 Últimos Proyectos Destacados
-📌 [📁 Proyecto 1 - Sistema de Gestión Académica (JSP + MySQL)](https://github.com/tu-repo)  
+📌 [📁 Proyecto 1 - Sistema de Gestión Académica (JSP + MySQL)](https://github.com/PROYECTO_CRUD)  
 📌 [📁 Proyecto 2 - Plataforma E-commerce (PHP + Angular)](https://github.com/tu-repo)  
 
 ---
@@ -51,7 +51,7 @@ Actualmente explorando **Spring Boot** y **Microservicios** para mejorar mis hab
 ---
 
 ## 📊 GitHub Stats  
-![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)  
+![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TOGIRA17&show_icons=true&theme=radical)  
 
 ---
 
