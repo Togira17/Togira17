@@ -53,6 +53,4 @@ Actualmente explorando **Spring Boot** y **Microservicios** para mejorar mis hab
 ## 📊 GitHub Stats  
 ![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TOGIRA17&show_icons=true&theme=radical)  
 
----
 
-🎯 **Siempre buscando nuevos retos y oportunidades. ¡Hablemos de código!** 🚀
